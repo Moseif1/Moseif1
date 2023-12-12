@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moseif1
-- 👀 I’m interested in Biomedical automation engineering
-- 🌱 I’m currently learning AI and deep medical image processing
-- 💞️ I’m looking to collaborate on medical related projects
+- 👀 I’m interested in Biomedical and automation engineering, Machine learning and AI 
+- 🌱 I’m currently working on ML projects using Python
+- 💞️ I’m looking to collaborate on ML related projects
 - 📫 How to reach me email:  moseif091@gmail.com
 
 <!---
